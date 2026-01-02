@@ -1,3 +1,24 @@
+<!--
+============================================================================
+泪心开源驱动 - TearGame Open Source Driver
+============================================================================
+作者 (Author): 泪心 (Tear)
+QQ: 2254013571
+邮箱 (Email): tearhacker@outlook.com
+电报 (Telegram): t.me/TearGame
+GitHub: github.com/tearhacker
+============================================================================
+本项目完全免费开源，代码明文公开
+This project is completely free and open source with clear code
+
+禁止用于引流盈利，保留开源版权所有
+Commercial use for profit is prohibited, all open source rights reserved
+
+凡是恶意盈利者需承担法律责任
+Those who maliciously profit will bear legal responsibility
+============================================================================
+-->
+
 # TearGame GKI 驱动模块
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
@@ -20,12 +41,21 @@
 - ✅ **完整绘制作者对接驱动源码，直接使用，永久无验证，无服务器密钥**
 - ⚠️ 未实现 lsmod 隐藏（保持可见性）
 
+## � 下载方地址
+
+```bash
+git clone https://github.com/tearhacker/TearGame_KernelDriver_Android_WriteReadMemory.git
+```
+
+**GitHub 仓库**: [https://github.com/tearhacker/TearGame_KernelDriver_Android_WriteReadMemory](https://github.com/tearhacker/TearGame_KernelDriver_Android_WriteReadMemory)
+
 ## 📞 联系方式
 
 - **电报频道**: [t.me/TearGame](https://t.me/TearGame) - 泪心唯一电报
 - **邮箱**: tearhacker@outlook.com - 泪心唯一邮箱
 - **GitHub**: [tearhacker](https://github.com/tearhacker)
 - **作者TG**: [t.me/tearcrying](https://t.me/tearcrying)
+- **项目地址**: [TearGame_KernelDriver_Android_WriteReadMemory](https://github.com/tearhacker/TearGame_KernelDriver_Android_WriteReadMemory)
 
 ## 🚀 快速开始
 
